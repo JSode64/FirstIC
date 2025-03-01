@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-It lights an LED when inputs 0 and (1 or 2) is true.
+It lights an LED when inputs 0 xor (1 or 2) is true.
 
 ## How to test
 
